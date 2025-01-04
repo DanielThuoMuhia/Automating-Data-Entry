@@ -1,0 +1,1 @@
+This Python script automates the process of scraping rental property data from a Zillow clone webpage and submitting the information to a Google Form using both Beautiful Soup for webscrapping and selenium for automation.
